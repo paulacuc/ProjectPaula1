@@ -1,0 +1,16 @@
+<Practitioner xmlns="http://hl7.org/fhir">
+    <name>
+        <family value="Google"/>
+        <given value="Doctor"/>        
+    </name>
+    <qualification>
+        <identifier>
+            <value value="1"></value>
+        </identifier>
+        <code>
+            <coding>
+                <code value="BAAS"/>
+            </coding>
+        </code>
+    </qualification>
+</Practitioner>

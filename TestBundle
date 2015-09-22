@@ -58,6 +58,11 @@
                         <display value="Andre kommunale tjenester" />
                         <definition value="Barnehage, skolesektor, PPT Sosialtjeneste, barnevern" />            
                     </concept>
+                    <concept>
+                        <code value="198" />
+                        <display value="Paula" />
+                        <definition value="Paula" />            
+                    </concept>
                 </define>
             </ValueSet>            
         </resource>

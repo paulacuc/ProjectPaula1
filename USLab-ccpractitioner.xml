@@ -24,7 +24,7 @@
     <element>
       <path value="Extension"/>
       <short value="Copy to practitioner"/>
-      <definition value="Non-ordering practitioner, to whom the orderer instructs the recipient to send the results
+      <definition value="Non-ordering practitioner, to whom  orderer instructs the recipient to send the results
        of the request."/>
       <min value="0"/>
       <max value="*"/>

@@ -56,7 +56,7 @@
                     <concept>
                         <code value="88" />
                         <display value="Andre kommunale tjenester" />
-                        <definition value="Barnehage, skolesektor, PPT Sosialtjeneste, barnevern" />            
+                        <definition value="Barnehage, , PPT Sosialtjeneste, barnevern" />            
                     </concept>
                     <concept>
                         <code value="9"/>
